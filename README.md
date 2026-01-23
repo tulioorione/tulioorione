@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sobre mim:
 Sou estudante de Engenharia de Software, atualmente em fase de dedicação total aos estudos com foco em conquistar minha primeira oportunidade como desenvolvedor.<br><br>Tenho estudado principalmente JavaScript e desenvolvimento Front-end, buscando sempre unir teoria com prática intencional, através de exercícios, projetos e desafios reais.<br><br>Acredito que aprender programação vai além de assistir aulas — envolve errar, testar, refatorar e entender o raciocínio por trás de cada solução. Por isso, estou constantemente aprimorando minha lógica, organização de código e boas práticas.<br><br>Meu objetivo é evoluir como desenvolvedor, construir um portfólio sólido e crescer profissionalmente dentro da área de tecnologia.
 
 
