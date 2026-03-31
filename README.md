@@ -1,18 +1,61 @@
-# Sobre mim:
-Sou estudante de Engenharia de Software, atualmente em fase de dedicação total aos estudos com foco em conquistar minha primeira oportunidade como desenvolvedor.<br><br>Tenho estudado principalmente JavaScript e desenvolvimento Front-end, buscando sempre unir teoria com prática intencional, através de exercícios, projetos e desafios reais.<br><br>Acredito que aprender programação vai além de assistir aulas — envolve errar, testar, refatorar e entender o raciocínio por trás de cada solução. Por isso, estou constantemente aprimorando minha lógica, organização de código e boas práticas.<br><br>Meu objetivo é evoluir como desenvolvedor, construir um portfólio sólido e crescer profissionalmente dentro da área de tecnologia.
+# Olá, eu sou o Túlio Orione 👋
 
+**Desenvolvedor Full-Stack em Formação · Java · JavaScript · React · Python**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/l5kaos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tulio-orione-7b89a2329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tulioorione@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tulioorione&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tulioorione&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tulioorione&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Estudante de Engenharia de Software pela Uniamérica (2025–2029) apaixonado por transformar problemas reais em soluções web funcionais. Já tenho 2 websites institucionais publicados em produção e atualmente desenvolvo um sistema administrativo como projeto de extensão acadêmica.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tulioorione&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🏋️ Sistema Administrativo — Academia Welfare Fit
+> Projeto de extensão acadêmica (PEX) em desenvolvimento. Automação de processos internos: cadastro de alunos, controle de mensalidades e organização de dados.
+> Stack: Java · JavaScript
+
+---
+
+### 🏛️ Portfólio — Arquiteta Luciene Venâncio · [ver site ↗](https://lnkd.in/dJNnXwgQ)
+> Website institucional publicado em produção. SEO, design responsivo, identidade visual e deploy via GitHub Pages.
+> Stack: HTML5 · CSS3 · JavaScript
+
+---
+
+### 💼 Site Institucional — Daiana Contabilidade · [ver site ↗](https://lnkd.in/dFu5DGeQ)
+> Website responsivo Mobile-First com formulário via Formspree e indexação no Google Search Console.
+> Stack: HTML5 semântico · CSS3 (Flexbox/Grid) · JavaScript
+
+---
+
+### 🤚 Hand Tracking — Controle de Volume por Gestos
+> Controle do volume do SO via gestos capturados em tempo real pela webcam.
+> Stack: Python · OpenCV · MediaPipe · NumPy · PyCaw
+
+---
+
+## 📚 O que estou aprendendo agora
+
+- React avançado e componentização
+- Java backend e orientação a objetos
+- Estrutura de dados e algoritmos
+- Fundamentos de banco de dados
+
+---
+
+## 📬 Onde me encontrar
+
+- 💼 LinkedIn: [linkedin.com/in/tulio-orione-7b89a2329](https://linkedin.com/in/tulio-orione-7b89a2329)
+- 📧 E-mail: tulioorione@gmail.com
+- 🟢 Aberto a oportunidades de estágio em desenvolvimento web
