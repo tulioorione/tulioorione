@@ -23,7 +23,7 @@ Estudante de Engenharia de Software pela Uniamérica (2025–2029) apaixonado po
 
 ### 🏋️ Sistema Administrativo — Academia Welfare Fit
 > Projeto de extensão acadêmica (PEX) em desenvolvimento. Automação de processos internos: cadastro de alunos, controle de mensalidades e organização de dados.
-> Stack: Java · JavaScript
+> Stack: Dart · JavaScript
 
 ---
 
