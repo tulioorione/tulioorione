@@ -27,13 +27,13 @@ Estudante de Engenharia de Software pela Uniamérica (2025–2029) apaixonado po
 
 ---
 
-### 🏛️ Portfólio — Arquiteta Luciene Venâncio · [ver site ↗](https://lnkd.in/dJNnXwgQ)
+### 🏛️ Portfólio — Arquiteta Luciene Venâncio · [ver site ↗](https://lucienevenancio.github.io/luciene-arquitetura/)
 > Website institucional publicado em produção. SEO, design responsivo, identidade visual e deploy via GitHub Pages.
 > Stack: HTML5 · CSS3 · JavaScript
 
 ---
 
-### 💼 Site Institucional — Daiana Contabilidade · [ver site ↗](https://lnkd.in/dFu5DGeQ)
+### 💼 Site Institucional — Daiana Contabilidade · [ver site ↗]([https://lnkd.in/dFu5DGeQ](https://tulioorione.github.io/daiana-contabilidade-web/)
 > Website responsivo Mobile-First com formulário via Formspree e indexação no Google Search Console.
 > Stack: HTML5 semântico · CSS3 (Flexbox/Grid) · JavaScript
 
