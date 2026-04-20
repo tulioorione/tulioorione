@@ -70,13 +70,6 @@ Hoje construo projetos autorais em Java puro com arquitetura em camadas, enquant
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tulioorione&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tulioorione&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📚 Aprendendo agora
 
 - **Spring Boot** — construção de APIs REST
