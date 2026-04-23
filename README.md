@@ -3,7 +3,7 @@
 **Desenvolvedor Júnior em formação | Java & Web**  
 **Estudante de Engenharia de Software**
  
-📍  Minas Gerais — disponível presencial, híbrido ou remoto  
+📍   Minas Gerais — disponível presencial, híbrido ou remoto  
 🎓 Engenharia de Software (Uniamérica, 2025–2029)  
 🎯 Em busca de estágio ou posição júnior em desenvolvimento de software
  
