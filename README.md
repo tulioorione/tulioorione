@@ -74,14 +74,7 @@ Desenvolvedor em formação com foco em desenvolvimento web e backend Java. Entr
 > [Ver site ↗](https://tulioorione.github.io/portif-lio-elenice/)
  
 ---
- 
-## 📊 Estatísticas
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tulioorione&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tulioorione&layout=compact&theme=default&hide_border=true)
- 
----
- 
+
 ## 📬 Contato
  
 - 💼 **LinkedIn:** [linkedin.com/in/tulio-orione-7b89a2329](https://linkedin.com/in/tulio-orione-7b89a2329)
