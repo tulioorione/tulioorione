@@ -3,7 +3,7 @@
 **Desenvolvedor em formação | PHP & Web | Estudante de Engenharia de Software**
 
 📍 Minas Gerais — disponível presencial, híbrido ou remoto
-🎓 Engenharia de Software (Uniamérica, 2025–2029)
+🎓 Engenharia de Software 
 
 ---
 
